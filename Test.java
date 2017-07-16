@@ -2,6 +2,7 @@ import com.test
 public void Test(){
 
  private String aliasName;
- private int newAge;
+ private int age;
+ private int height;
 
 }
