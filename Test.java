@@ -5,6 +5,7 @@ public void Test(){
  private int age;
  private int height;
 
- public void getHeight {
+ public void getAge(){
+
  }
 }
